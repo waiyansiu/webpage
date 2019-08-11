@@ -1,2 +1,3 @@
-setwd("/Users/waiyansiu/Documents/personal_web/waiyan.github.io")
+setwd("/Users/waiyansiu/Documents/webpage")
 rmarkdown::render_site()
+

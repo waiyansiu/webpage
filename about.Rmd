@@ -1,5 +1,4 @@
 ---
-title: "About Me"
+title: "CV"
 ---
-
-Why I am awesome.
+My full CV is available [here](/Users/waiyansiu/Documents/webpage/cv.pdf).

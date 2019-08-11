@@ -1,5 +1,9 @@
 ---
-title: "Wai Yan's Website"
+title: "Hello"
 ---
+<img src="/Users/waiyansiu/Documents/webpage/me.jpg" style="width:25%; border:1px solid; margin-right: 20px" align="left">
 
-Hello, World!
+I am a Ph.D. student in the Department of Applied Economics at Utah State University. My research intergrates social and environmental data to understand the impact of human activities and urbanization on the environment. I rely on econometrics analysis and geospatial programming. My current research focus on hydraulic fracturing activities in the United States.
+
+You can contact me at waiyan.siu@aggiemail.usu.edu
+
