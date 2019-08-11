@@ -1,0 +1,9 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Wai Yan, Siu"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
