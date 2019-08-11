@@ -9,6 +9,9 @@ navbar:
       href: about.html
     - text: "Research"
       href: research.html
+    - text: "Contact"
+      href: contact.html
+
 output:
   html_document:
     theme: flatly
