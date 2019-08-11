@@ -11,6 +11,8 @@ navbar:
       href: research.html
     - text: "Contact"
       href: contact.html
+    - text: ""
+      href: google0f90bd231abfb01e.html
 
 output:
   html_document:
