@@ -1,0 +1,18 @@
+---
+title: ''
+---
+
+## Current Projects
+
+#### Hydraulic Fracturing in California
+<img src="/Users/waiyansiu/Documents/webpage/ca.eps" style="width:100%; margin-right: 20px" align="left">
+
+In this study, we investigate the effect of hydraulic fracturing on agricultural productivity in Kern County, California, 0which is the state's leading agricultural as well as unconventional oil/gas mining county. The Central Valley farmers, particularly in Kern County, have reportedly noticed sudden crop deaths and decline in their agricultural production since around 2009 that the local farmers have vehemently attributed to the pollution of irrigation water as a result of the nearby fracking activities. To understand whether the (under-regulated) discharge of wastewater from fracking activities generates any measurable negative externalities on agricultural production, we conduct an event study analysis using difference-in-differences with two-way fixed effects and a rich set of controls to quantify the impact of hydraulic fracturing activities on the yield of major crops grown in Kern County. We find negative, statistically significant effects for multiple crops, which confirms the farmers' claim that the fracking boom in the region has hurt crop yield and production. We also find that certain crops show no effect, which may be suggestive of crop resilience to  fracking-related externalities.
+
+<img src="/Users/waiyansiu/Documents/webpage/Kern_shale.jpeg" style="width:100%; margin-right: 20px" align="center">
+
+#### Land Use Change at Peri-Urban Nexus: The Farmland Assessment Act
+
+<img src="/Users/waiyansiu/Documents/webpage/Lv_inc.jpeg" style="width:100%; margin-right: 20px" align="center">
+
+Farmland preservation programs are adopted in many states to protect agricultural land from urban development. While the goal of Farmland Assessment Act (FAA) in Utah is to preserve urban farmland by providing tax advantage to land owners, it has slightly different criteria for land qualification. The objective of this study is to examine the effect of GreenBelt (GB) designation under FAA on protecting agricultural land from urban development. We find GB designation helped to protect peri-urban farmland from development, despite there is accusation of abuse. We show empirical evidence that the effect of GB designation on non-primary agricultural use parcel is positive which contrast to the goal of FAA. A large amount of eligible peri-urban farmland does not enroll for GB when it is located close to the urban core. From our results, there are several underlining policy implications. First, the GB designation does protect peri-urban farming at about 3\% per designated parcel. Second, allowing for non-primary agricultural use and the low enrollment rate of the program poses concerns on the effectiveness of FAA. Third, agricultural parcels that are near the urban core are not appealed to FAA, and thus not protected by FAA.

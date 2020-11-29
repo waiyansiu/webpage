@@ -1,0 +1,8 @@
+---
+title: "Hello"
+---
+<img src="/Users/waiyansiu/Google Drive/GitHub/webpage/me.jpg" style="width:25%; border:1px solid; margin-right: 20px" align="left">
+
+I am a Ph.D. Candidate in the Department of Applied Economics at Utah State University. My research intergrates social and environmental data to understand the impact of human activities and urbanization on the environment. I rely on econometrics analysis and geospatial programming. My primary research fields are natural resource and environmental economics and sustainable development under global change, with special interests in the nexus of energy, land use, and public policy evaluation.
+
+You can contact me at waiyan.siu@aggiemail.usu.edu
